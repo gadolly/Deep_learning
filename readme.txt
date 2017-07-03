@@ -6,6 +6,11 @@ K.set_image_dim_ordering('th')
 show hidden files
 defaults write com.apple.finder AppleShowAllFiles YES
 killall Finder
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+to add sliding windows
+https://stackoverflow.com/questions/41884001/keras-classification-object-detection
+
 
 http://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
 
